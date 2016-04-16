@@ -1,0 +1,24 @@
+Channel 4
+Tuesday
+6
+55
+Channel 3
+Tuesday
+11
+41
+Channel 5
+Friday
+5
+48
+Channel 3
+Friday
+18
+26
+Channel 1
+Saturday
+8
+38
+Channel 7
+Sunday
+15
+17

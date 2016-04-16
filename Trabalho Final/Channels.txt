@@ -1,0 +1,454 @@
+Channel 1
+Program 1
+Type A
+32
+Monday
+0
+6
+Program 2
+Type B
+93
+Tuesday
+3
+41
+Program 3
+Type B
+21
+Tuesday
+20
+53
+Program 4
+Type B
+72
+Thursday
+7
+34
+Program 5
+Type C
+99
+Thursday
+21
+8
+Program 6
+Type D
+112
+Friday
+12
+12
+Program 7
+Type C
+53
+Saturday
+8
+38
+
+Channel 2
+Program 8
+Type D
+17
+Monday
+16
+26
+Program 9
+Type B
+8
+Tuesday
+15
+23
+Program 10
+Type B
+11
+Tuesday
+23
+33
+Program 11
+Type D
+68
+Wednesday
+10
+14
+Program 12
+Type D
+34
+Wednesday
+12
+21
+Program 13
+Type B
+80
+Wednesday
+18
+39
+Program 14
+Type A
+73
+Wednesday
+22
+17
+Program 15
+Type A
+13
+Friday
+5
+1
+Program 16
+Type A
+77
+Friday
+14
+16
+Program 17
+Type A
+114
+Saturday
+15
+7
+Program 18
+Type B
+117
+Sunday
+6
+8
+Program 19
+Type A
+104
+Sunday
+23
+27
+
+Channel 3
+Program 20
+Type B
+9
+Tuesday
+11
+41
+Program 21
+Type B
+77
+Thursday
+11
+59
+Program 22
+Type B
+118
+Friday
+18
+26
+Program 23
+Type B
+51
+Saturday
+4
+15
+Program 24
+Type C
+55
+Saturday
+17
+16
+
+Channel 4
+Program 25
+Type D
+43
+Tuesday
+6
+55
+Program 26
+Type C
+110
+Tuesday
+8
+42
+Program 27
+Type A
+110
+Tuesday
+15
+14
+Program 28
+Type C
+96
+Tuesday
+22
+46
+Program 29
+Type C
+35
+Friday
+6
+41
+Program 30
+Type D
+114
+Saturday
+12
+51
+Program 31
+Type C
+69
+Saturday
+19
+6
+Program 32
+Type B
+87
+Saturday
+23
+46
+
+Channel 5
+Program 33
+Type A
+97
+Monday
+9
+7
+Program 34
+Type D
+44
+Monday
+15
+59
+Program 35
+Type D
+16
+Monday
+18
+23
+Program 36
+Type B
+19
+Tuesday
+20
+36
+Program 37
+Type B
+65
+Wednesday
+5
+3
+Program 38
+Type A
+37
+Friday
+5
+48
+Program 39
+Type A
+14
+Friday
+17
+11
+
+Channel 6
+Program 40
+Type C
+108
+Tuesday
+8
+34
+Program 41
+Type B
+17
+Tuesday
+15
+37
+Program 42
+Type C
+72
+Tuesday
+20
+26
+Program 43
+Type B
+59
+Wednesday
+0
+39
+Program 44
+Type D
+59
+Wednesday
+23
+0
+Program 45
+Type B
+85
+Thursday
+16
+14
+Program 46
+Type A
+116
+Friday
+3
+44
+Program 47
+Type C
+90
+Friday
+21
+48
+Program 48
+Type D
+82
+Friday
+23
+49
+Program 49
+Type C
+105
+Saturday
+10
+5
+Program 50
+Type A
+50
+Saturday
+18
+48
+Program 51
+Type D
+15
+Sunday
+9
+28
+Program 52
+Type C
+95
+Sunday
+16
+7
+Program 53
+Type D
+86
+Sunday
+20
+10
+
+Channel 7
+Program 54
+Type D
+116
+Monday
+2
+4
+Program 55
+Type A
+104
+Tuesday
+0
+35
+Program 56
+Type D
+61
+Wednesday
+5
+1
+Program 57
+Type B
+49
+Friday
+19
+23
+Program 58
+Type D
+102
+Saturday
+3
+52
+Program 59
+Type C
+37
+Sunday
+2
+17
+Program 60
+Type A
+36
+Sunday
+8
+13
+Program 61
+Type C
+22
+Sunday
+15
+17
+
+Channel 8
+Program 62
+Type C
+78
+Monday
+3
+10
+Program 63
+Type B
+99
+Tuesday
+12
+32
+Program 64
+Type C
+47
+Wednesday
+2
+6
+Program 65
+Type A
+58
+Wednesday
+13
+11
+Program 66
+Type A
+92
+Wednesday
+23
+47
+Program 67
+Type D
+116
+Thursday
+16
+36
+Program 68
+Type D
+72
+Friday
+2
+56
+Program 69
+Type C
+29
+Friday
+7
+29
+Program 70
+Type D
+112
+Friday
+22
+54
+Program 71
+Type B
+21
+Saturday
+18
+23
+Program 72
+Type C
+74
+Sunday
+15
+48
+Program 73
+Type D
+42
+Sunday
+19
+28
+

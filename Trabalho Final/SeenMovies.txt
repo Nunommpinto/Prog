@@ -1,0 +1,39 @@
+Movie 0
+5.21
+1
+Movie 1
+0.2
+1
+Movie 10
+6.72
+4
+Movie 11
+1.79
+2
+Movie 12
+4.37
+5
+Movie 13
+1.9
+4
+Movie 14
+1.99
+8
+Movie 15
+2.67
+8
+Movie 16
+9.42
+6
+Movie 17
+10.89
+3
+Movie 2
+3.58
+2
+Movie 3
+5
+1
+Movie 8
+6.27
+1
